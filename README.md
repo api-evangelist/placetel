@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Placetel is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.placetel.de/
+Placetel provides cloud-based telephone systems for businesses, offering features such as virtual phone numbers, call routing, voicemail, conferencing, and integrations with CRM tools. Their platform enables companies to manage communications over the internet with scalable, reliable services, supporting both domestic and international calling.
+
+**Areas:** Call Center · Messaging · Video Meetings · Collaboration
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.placetel.de/)
+- [API reference](https://api.placetel.de/v2/docs/)
+- [Support](https://www.placetel.de/support)
+- [Blog](https://www.placetel.de/blog)
+- [GitHub](https://github.com/Placetel)
+- [Status](https://status.placetel.de)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/placetel/](https://apis.io/providers/placetel/).
